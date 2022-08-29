@@ -1,8 +1,9 @@
-
 ### Languages i speak
 1. [English](#hi-there-welcome-to-my-github-profile)
 2. [Deutsch](#hallo-und-willkommen-auf-meinem-github-profil)
 3. [Русский](#здравствуйте-и-добро-пожаловать-в-мой-профиль-на-github)
+
+---
 
 *English*: 
 
@@ -123,6 +124,8 @@ const мояБиоИнформация = {
 1. я легко адаптируюсь
 2. я целеустремленный и дружелюбный
 3. Я готов учиться
+
+---
 
 #### Больше обо мне:
 
