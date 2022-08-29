@@ -1,3 +1,6 @@
+
+<p align="center"><img src='https://avatars.githubusercontent.com/u/86421371?s=96&v=4'></p>
+
 ### Languages i speak
 1. [English](#hi-there-welcome-to-my-github-profile)
 2. [Deutsch](#hallo-und-willkommen-auf-meinem-github-profil)
@@ -35,13 +38,22 @@ What does the employer get from me?
 1. i am adaptable
 2. i am committed and friendly
 3. I am willing to learn
+
+
+| | My Skills |  |
+|---|:--:|---|
+|![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
+|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)|![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
+|![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
+|![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
+
 ---
 
 #### More About Me:
 
 - 🔭 I’m currently working on my *portfolio website* and *an affirmation api*
 - 🌱 I’m currently learning *canvas, python, java, c#, php, but of course not all at the same time* 😄
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dietmar-eisner/)
+- 📫 How to reach me: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
 - 😄 Pronunciation: diit·maar, [how it sounds](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
 - ⚡ Fun fact: I think i've an Impostor Syndrom 😅
  
@@ -80,12 +92,19 @@ Was bekommt der Arbeitgeber von mir?
 2. Ich bin engagiert und freundlich
 3. Ich bin lernwillig
 
+| | Meine Fähigkeiten |  |
+|---|:--:|---|
+|![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
+|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)|![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
+|![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
+|![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
+
 ---
 #### Mehr über mich:
 
 - 🔭 Ich arbeite zurzeit an meiner *Portfolio Webseite* und an einer *Affirmations API*
 - 🌱 Ich lerne zurzeit *canvas, python, java, c#, php, aber natürlich nicht alles aufeinmal* 😄
-- 📫 Wie kann man mich Kontaktieren: [LinkedIn](https://www.linkedin.com/in/dietmar-eisner/)
+- 📫 Wie kann man mich Kontaktieren: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
 - 😄 Aussprache: diit·maar, [Wie es klingt](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
 - ⚡ Lustiger Fakt: Ich glaube, ich leide unter dem Hochstapler Syndrom 😅
 
@@ -125,13 +144,20 @@ const мояБиоИнформация = {
 2. я целеустремленный и дружелюбный
 3. Я готов учиться
 
+| | Мои способности |  |
+|---|:--:|---|
+|![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
+|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)|![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
+|![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
+|![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
+
 ---
 
 #### Больше обо мне:
 
 - 🔭 В настоящее время я работаю над своим *сайтом портфолио* и *аффирмациями API*.
 - 🌱 Сейчас я изучаю *canvas, python, java, c#, php, но не все сразу конечно* 😄.
-- 📫 Как со мной связаться: [LinkedIn](https://www.linkedin.com/in/dietmar-eisner/)
+- 📫 Как со мной связаться: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
 - 😄 Произношение: diit-maar, [ Как звучит ](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
 - ⚡ Забавный факт: я думаю, что, к сожалению, страдаю от синдрома самозванца 😅
 
