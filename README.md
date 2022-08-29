@@ -1,3 +1,5 @@
+
+### Languages i speak
 1. [English](#hi-there-welcome-to-my-github-profile)
 2. [Deutsch](#hallo-und-willkommen-auf-meinem-github-profil)
 3. [Русский](#здравствуйте-и-добро-пожаловать-в-мой-профиль-на-github)
@@ -42,6 +44,8 @@ What does the employer get from me?
 - 😄 Pronunciation: diit·maar, [how it sounds](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
 - ⚡ Fun fact: I think i've an Impostor Syndrom 😅
  
+[⬆️](#languages-i-speak)
+ 
 ---
 
 *German*: 
@@ -83,6 +87,8 @@ Was bekommt der Arbeitgeber von mir?
 - 📫 Wie kann man mich Kontaktieren: [LinkedIn](https://www.linkedin.com/in/dietmar-eisner/)
 - 😄 Aussprache: diit·maar, [Wie es klingt](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
 - ⚡ Lustiger Fakt: Ich glaube, ich leide unter dem Hochstapler Syndrom 😅
+
+[⬆️](#languages-i-speak)
 
 ---
 
@@ -126,6 +132,9 @@ const мояБиоИнформация = {
 - 😄 Произношение: diit-maar, [ Как звучит ](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
 - ⚡ Забавный факт: я думаю, что, к сожалению, страдаю от синдрома самозванца 😅
 
+[⬆️](#languages-i-speak)
+
+---
 <!--
 **Dima0687/dima0687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
