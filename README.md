@@ -1,3 +1,7 @@
+1. [English](#hi-there-welcome-to-my-github-profile)
+2. [Deutsch](#hallo-und-willkommen-auf-meinem-github-profil)
+3. [Русский](#здравствуйте-и-добро-пожаловать-в-мой-профиль-на-github)
+
 *English*: 
 
 ### Hi there, welcome to my github profile.👋
@@ -82,7 +86,7 @@ Was bekommt der Arbeitgeber von mir?
 
 ---
 
-*Russian*
+*Русский*
 
 ### Здравствуйте и добро пожаловать в мой профиль на GitHub.👋
 
@@ -119,7 +123,7 @@ const мояБиоИнформация = {
 - 🔭 В настоящее время я работаю над своим *сайтом портфолио* и *аффирмациями API*.
 - 🌱 Сейчас я изучаю *canvas, python, java, c#, php, но не все сразу конечно* 😄.
 - 📫 Как со мной связаться: [LinkedIn](https://www.linkedin.com/in/dietmar-eisner/)
-- 😄 Произношение: diit-maar, [Как звучит](https://www.google.com/search? q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv- zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV- IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
+- 😄 Произношение: diit-maar, [ Как звучит ](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
 - ⚡ Забавный факт: я думаю, что, к сожалению, страдаю от синдрома самозванца 😅
 
 <!--
