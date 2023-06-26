@@ -16,7 +16,7 @@
 const myBioInformation = {
  firstname: "Dietmar",
  lastname: "Eisner",
- age: 35,
+ age: 36,
  children: 3,
  lookingForAJobAs: "Web Developer",
  stillLooking: true
@@ -69,7 +69,7 @@ What does the employer get from me?
 const meineBioInformation = {
  vorname: "Dietmar",
  nachname: "Eisner",
- alter: 35,
+ alter: 36,
  kinder: 3,
  nachWelcherArbeitstelleSucheIch: "Web Entwickler",
  nochAufDerSuche: true
@@ -120,7 +120,7 @@ Was bekommt der Arbeitgeber von mir?
 const мояБиоИнформация = {
  имя: "Дитмар",
  фамилия: "Эйснер",
- возраст: 35 лет,
+ возраст: 36 лет,
  дети: 3,
  какуюРаботуЯИщу: "веб-разработчик",
  всёЕщёИщет: true
