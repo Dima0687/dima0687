@@ -51,7 +51,7 @@ What does the employer get from me?
 
 #### More About Me:
 
-- 🔭 I’m currently working on my *portfolio website* and *an affirmation api*
+- 🔭 I'm currently taking a one-year Java course at Digitial Career Institute
 - 🌱 I’m currently learning *canvas, python, java, c#, php, but of course not all at the same time* 😄
 - 📫 How to reach me: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
 - 😄 Pronunciation: diit·maar, [how it sounds](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
@@ -102,7 +102,7 @@ Was bekommt der Arbeitgeber von mir?
 ---
 #### Mehr über mich:
 
-- 🔭 Ich arbeite zurzeit an meiner *Portfolio Webseite* und an einer *Affirmations API*
+- 🔭 Ich nehme zurzeit an einem einjährigen Java Kurs bei Digitial Career Institute teil
 - 🌱 Ich lerne zurzeit *canvas, python, java, c#, php, aber natürlich nicht alles aufeinmal* 😄
 - 📫 Wie kann man mich Kontaktieren: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
 - 😄 Aussprache: diit·maar, [Wie es klingt](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
@@ -155,7 +155,7 @@ const мояБиоИнформация = {
 
 #### Больше обо мне:
 
-- 🔭 В настоящее время я работаю над своим *сайтом портфолио* и *аффирмациями API*.
+- 🔭 В данный момент я прохожу годичный курс обучения Java в Digitial Career Institute.
 - 🌱 Сейчас я изучаю *canvas, python, java, c#, php, но не все сразу конечно* 😄.
 - 📫 Как со мной связаться: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
 - 😄 Произношение: дить-мар, [ Как звучит ](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
