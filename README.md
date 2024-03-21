@@ -1,180 +1,95 @@
+[German](#German) | [English](#English)
 
-<p align="center"><img src='https://avatars.githubusercontent.com/u/86421371?s=96&v=4'></p>
+## German
 
-### Languages i speak
-1. [English](#hi-there-welcome-to-my-github-profile)
-2. [Deutsch](#hallo-und-willkommen-auf-meinem-github-profil)
-3. [Русский](#здравствуйте-и-добро-пожаловать-в-мой-профиль-на-github)
+### Über Mich
 
----
-
-*English*: 
-
-### Hi there, welcome to my github profile.👋
-
-``` javascript
-const myBioInformation = {
- firstname: "Dietmar",
- lastname: "Eisner",
- age: 36,
- children: 3,
- lookingForAJobAs: "Web Developer",
- stillLooking: true
-}
+### Hallo, ich bin Dietmar Eisner
 
 ```
----
-#### Currently i'm looking for a job as a `myBioInformation["lookingForAJobAs"]`. I do not have preferences about front or backend, both of them are fun. 
+$$$$$$$\  $$\            $$\                                             $$$$$$$$\ $$\                                         
+$$  __$$\ \__|           $$ |                                            $$  _____|\__|                                        
+$$ |  $$ |$$\  $$$$$$\ $$$$$$\   $$$$$$\$$$$\   $$$$$$\   $$$$$$\        $$ |      $$\  $$$$$$$\ $$$$$$$\   $$$$$$\   $$$$$$\  
+$$ |  $$ |$$ |$$  __$$\\_$$  _|  $$  _$$  _$$\  \____$$\ $$  __$$\       $$$$$\    $$ |$$  _____|$$  __$$\ $$  __$$\ $$  __$$\ 
+$$ |  $$ |$$ |$$$$$$$$ | $$ |    $$ / $$ / $$ | $$$$$$$ |$$ |  \__|      $$  __|   $$ |\$$$$$$\  $$ |  $$ |$$$$$$$$ |$$ |  \__|
+$$ |  $$ |$$ |$$   ____| $$ |$$\ $$ | $$ | $$ |$$  __$$ |$$ |            $$ |      $$ | \____$$\ $$ |  $$ |$$   ____|$$ |      
+$$$$$$$  |$$ |\$$$$$$$\  \$$$$  |$$ | $$ | $$ |\$$$$$$$ |$$ |            $$$$$$$$\ $$ |$$$$$$$  |$$ |  $$ |\$$$$$$$\ $$ |      
+\_______/ \__| \_______|  \____/ \__| \__| \__| \_______|\__|            \________|\__|\_______/ \__|  \__| \_______|\__|     
+```    
 
-What do i need to work well?
+![Alter](https://img.shields.io/badge/Alter-36-brightgreen)
+![Kinder](https://img.shields.io/badge/Kinder-3-blue)
 
-1. The team must be right
-2. I must have the opportunity to develop myself further, to expand my knowledge and to be able to use all of this again in the company.
-3. The salary must be right, because I have a family to support. 
----
+Ich bin ein leidenschaftlicher Junior Full Stack Entwickler mit einem breiten Spektrum an Fähigkeiten und Erfahrungen. Mein Hauptaugenmerk liegt auf der Entwicklung von Webanwendungen und Datenbanklösungen. Ich bin ständig bestrebt, mein Wissen zu erweitern und neue Technologien zu erlernen.
 
-What does the employer get from me?
+### Technische Fähigkeiten
 
-1. i am adaptable
-2. i am committed and friendly
-3. I am willing to learn
+- **Programmiersprachen:** ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-blue) ![Java](https://img.shields.io/badge/Java-Advanced-blue)
+- **Frontend:** ![React.js](https://img.shields.io/badge/React.js-Advanced-blue) ![HTML5](https://img.shields.io/badge/HTML5-Advanced-blue) ![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-Advanced-blue)
+- **Backend:**  ![Node.js](https://img.shields.io/badge/Node.js-Advanced-blue) ![Express.js](https://img.shields.io/badge/Express.js-Advanced-blue) ![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot%203-Advanced-blue) ![Spring Framework 6](https://img.shields.io/badge/Spring%20Framework%206-Advanced-blue)
+- **Datenbanken:**![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-blue)
+- **Tools & Umgebungen:** ![npm](https://img.shields.io/badge/npm-Advanced-blue) ![Sass](https://img.shields.io/badge/Sass-Intermediate-yellow) ![Ubuntu](https://img.shields.io/badge/Ubuntu-Advanced-blue) ![VS Code](https://img.shields.io/badge/VS%20Code-Advanced-blue) ![Eclipse](https://img.shields.io/badge/Eclipse-Advanced-blue) ![IntelliJ](https://img.shields.io/badge/IntelliJ-Advanced-blue)
+- **Versionskontrolle & Deployment:** ![Git](https://img.shields.io/badge/Git-Advanced-blue) ![GitHub](https://img.shields.io/badge/GitHub-Advanced-blue) ![Heroku](https://img.shields.io/badge/Heroku-Intermediate-yellow) ![Netlify](https://img.shields.io/badge/Netlify-Intermediate-yellow) ![Render](https://img.shields.io/badge/Render-Intermediate-yellow)
+- **Verwaltungswerkzeuge:** ![pgAdmin](https://img.shields.io/badge/pgAdmin-Intermediate-yellow) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-Intermediate-yellow)
+- **Sonstiges:** ![JSON](https://img.shields.io/badge/JSON-Expert-orange)
 
+### Aktueller Status
 
-| | My Skills |  |
-|---|:--:|---|
-|![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
-|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)|![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
-|![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
-|![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
+Zurzeit befinde ich mich in einem Weiterbildungskurs, um meine Kenntnisse in Java zu vertiefen. Früher habe ich bereits einen Weiterbildungskurs erfolgreich abgeschlossen und ein Zertifikat in Web- und Softwareentwicklung erlangt. Trotz meines nicht-linearen Karrierewegs habe ich meine Leidenschaft für das Programmieren nie verloren und strebe stets nach Qualität und Präzision.
 
----
+### Warum ich?
 
-#### More About Me:
+Ich bin ein enthusiastischer Entwickler, der sich durch seine Lernbereitschaft, seine Vielseitigkeit und seine Liebe zur Programmierung auszeichnet. Meine Fähigkeit, komplexe Probleme zu lösen und praktische Lösungen zu entwickeln, zeichnet mich aus. Ich bin gespannt darauf, mich neuen Herausforderungen zu stellen, um meine Fähigkeiten auszubauen und einen positiven Beitrag zu Ihrem Team zu leisten
 
-- 🔭 I'm currently taking a one-year Java course at Digitial Career Institute
-- 🌱 I’m currently learning *canvas, python, java, c#, php, but of course not all at the same time* 😄
-- 📫 How to reach me: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
-- 😄 Pronunciation: diit·maar, [how it sounds](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
-- ⚡ Fun fact: I think i've an Impostor Syndrom 😅
- 
-[⬆️](#languages-i-speak)
- 
 ---
 
-*German*: 
+### **Kontaktiere mich:**
 
-### Hallo und willkommen auf meinem GitHub Profil.👋
+[GitHub](https://github.com/Dima0687) |
+[LinkedIn](https://www.linkedin.com/in/dietmar-eisner/) |
+[E-Mail](mailto:dietmar@eisner-developer.com)                
 
-``` javascript
-const meineBioInformation = {
- vorname: "Dietmar",
- nachname: "Eisner",
- alter: 36,
- kinder: 3,
- nachWelcherArbeitstelleSucheIch: "Web Entwickler",
- nochAufDerSuche: true
-}
+# English
+
+## About Me
+
+### Hello, I'm Dietmar Eisner
 
 ```
----
-#### Ich suche zurzeit nach einer Arbeitstelle als `meineBioInformation["nachWelcherArbeitstelleSucheIch"]`. Ich habe keinerlei Präferenzen, ob ich im Backend oder Frontend arbeiten möchte. 
-
-Was brauche ich um eine gute Arbeit abzuliefern?
-
-1. Das Team mit dem ich arbeite muss stimmen. 
-2. Ich muss die Möglichkeit haben mich weiterzuentwickeln, mein Wissen zu erweitern und dieses auch wieder in das Unternehmen einfließen zu lassen.
-3. Das Gehalt muss selbstverständlich stimmen, denn ich habe eine Familie zu ernähren.
-
----
-Was bekommt der Arbeitgeber von mir?
-
-1. Ich bin anpassungsfähig
-2. Ich bin engagiert und freundlich
-3. Ich bin lernwillig
-
-| | Meine Fähigkeiten |  |
-|---|:--:|---|
-|![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
-|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)|![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
-|![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
-|![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
-
----
-#### Mehr über mich:
-
-- 🔭 Ich nehme zurzeit an einem einjährigen Java Kurs bei Digitial Career Institute teil
-- 🌱 Ich lerne zurzeit *canvas, python, java, c#, php, aber natürlich nicht alles aufeinmal* 😄
-- 📫 Wie kann man mich Kontaktieren: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
-- 😄 Aussprache: diit·maar, [Wie es klingt](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
-- ⚡ Lustiger Fakt: Ich glaube, ich leide unter dem Hochstapler Syndrom 😅
-
-[⬆️](#languages-i-speak)
-
----
-
-*Русский*
-
-### Здравствуйте и добро пожаловать в мой профиль на GitHub.👋
-
-``` javascript
-const мояБиоИнформация = {
- имя: "Дитмар",
- фамилия: "Эйснер",
- возраст: 36 лет,
- дети: 3,
- какуюРаботуЯИщу: "веб-разработчик",
- всёЕщёИщет: true
-}
-
+$$$$$$$\  $$\            $$\                                             $$$$$$$$\ $$\                                         
+$$  __$$\ \__|           $$ |                                            $$  _____|\__|                                        
+$$ |  $$ |$$\  $$$$$$\ $$$$$$\   $$$$$$\$$$$\   $$$$$$\   $$$$$$\        $$ |      $$\  $$$$$$$\ $$$$$$$\   $$$$$$\   $$$$$$\  
+$$ |  $$ |$$ |$$  __$$\\_$$  _|  $$  _$$  _$$\  \____$$\ $$  __$$\       $$$$$\    $$ |$$  _____|$$  __$$\ $$  __$$\ $$  __$$\ 
+$$ |  $$ |$$ |$$$$$$$$ | $$ |    $$ / $$ / $$ | $$$$$$$ |$$ |  \__|      $$  __|   $$ |\$$$$$$\  $$ |  $$ |$$$$$$$$ |$$ |  \__|
+$$ |  $$ |$$ |$$   ____| $$ |$$\ $$ | $$ | $$ |$$  __$$ |$$ |            $$ |      $$ | \____$$\ $$ |  $$ |$$   ____|$$ |      
+$$$$$$$  |$$ |\$$$$$$$\  \$$$$  |$$ | $$ | $$ |\$$$$$$$ |$$ |            $$$$$$$$\ $$ |$$$$$$$  |$$ |  $$ |\$$$$$$$\ $$ |      
+\_______/ \__| \_______|  \____/ \__| \__| \__| \_______|\__|            \________|\__|\_______/ \__|  \__| \_______|\__|     
 ```
----
-#### В настоящее время я ищу работу в качестве `мояБиоИнформация["какуюРаботуЯИщу"]`. У меня нет предпочтений, где я хочу работать - в бэкенде или фронтенде. 
 
-Что мне нужно для хорошей работы?
+![Age](https://img.shields.io/badge/Age-36-brightgreen)
+![Children](https://img.shields.io/badge/Children-3-blue)
 
-1. команда, с которой я работаю, должна быть правильной. 
-2. мне нужно иметь возможность развиваться дальше, расширять свои знания и приносить их в компанию.
-3. зарплата, конечно, должна быть соответствующей, ведь мне нужно содержать семью.
+I am a passionate Junior Full Stack Developer with a wide range of skills and experiences. My main focus is on developing web applications and database solutions. I am constantly striving to expand my knowledge and learn new technologies.
 
----
+### Technical Skills
 
-Что получает от меня работодатель?
+- **Programming Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-blue) ![Java](https://img.shields.io/badge/Java-Advanced-blue)
+- **Frontend:** ![React.js](https://img.shields.io/badge/React.js-Advanced-blue) ![HTML5](https://img.shields.io/badge/HTML5-Advanced-blue) ![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue) ![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-Advanced-blue)
+- **Backend:**  ![Node.js](https://img.shields.io/badge/Node.js-Advanced-blue) ![Express.js](https://img.shields.io/badge/Express.js-Advanced-blue) ![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot%203-Advanced-blue) ![Spring Framework 6](https://img.shields.io/badge/Spring%20Framework%206-Advanced-blue)
+- **Databases:**![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-blue)
+- **Tools & Environments:** ![npm](https://img.shields.io/badge/npm-Advanced-blue) ![Sass](https://img.shields.io/badge/Sass-Intermediate-yellow) ![Ubuntu](https://img.shields.io/badge/Ubuntu-Advanced-blue) ![VS Code](https://img.shields.io/badge/VS%20Code-Advanced-blue) ![Eclipse](https://img.shields.io/badge/Eclipse-Advanced-blue) ![IntelliJ](https://img.shields.io/badge/IntelliJ-Advanced-blue)
+- **Version Control & Deployment:** ![Git](https://img.shields.io/badge/Git-Advanced-blue) ![GitHub](https://img.shields.io/badge/GitHub-Advanced-blue) ![Heroku](https://img.shields.io/badge/Heroku-Intermediate-yellow) ![Netlify](https://img.shields.io/badge/Netlify-Intermediate-yellow) ![Render](https://img.shields.io/badge/Render-Intermediate-yellow)
+- **Management Tools:** ![pgAdmin](https://img.shields.io/badge/pgAdmin-Intermediate-yellow) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-Intermediate-yellow)
+- **Miscellaneous:** ![JSON](https://img.shields.io/badge/JSON-Expert-orange)
 
-1. я легко адаптируюсь
-2. я целеустремленный и дружелюбный
-3. Я готов учиться
+### Current Status
+Currently, I am enrolled in a training course to deepen my knowledge in Java. Previously, I have successfully completed a training course and obtained a certificate in web and software development. Despite my non-linear career path, I have never lost my passion for programming and always strive for quality and precision.
 
-| | Мои способности |  |
-|---|:--:|---|
-|![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)|![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|
-|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)|![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)|![Bootstrap 5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)|
-|![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)|![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)|
-|![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|![EXPRESSJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)|
+### Why Me?
+I am an enthusiastic developer known for my eagerness to learn, versatility, and love for programming. My ability to solve complex problems and develop practical solutions sets me apart. I am excited to take on new challenges, expand my skills, and make a positive contribution to your team.
 
----
+### **Contact Me:**
 
-#### Больше обо мне:
-
-- 🔭 В данный момент я прохожу годичный курс обучения Java в Digitial Career Institute.
-- 🌱 Сейчас я изучаю *canvas, python, java, c#, php, но не все сразу конечно* 😄.
-- 📫 Как со мной связаться: [![LinkedIn](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/dietmar-eisner/)
-- 😄 Произношение: дить-мар, [ Как звучит ](https://www.google.com/search?q=pronunciation+Dietmar&sxsrf=ALiCzsYjOADezibiTcELQfs_VEcYPpUfvw%3A1661760693791&ei=tXQMY_ftL4yHxc8PqcOLuA0&ved=0ahUKEwi3nOv-zOv5AhWMQ_EDHanhAtcQ4dUDCA4&uact=5&oq=pronunciation+Dietmar&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjoHCAAQRxCwAzoJCAAQsAMQChBDOgcIABCwAxBDOgUIABCABDoFCAAQywE6BAgAEEM6CAgAEB4QFhAKOggIABAeEA8QFjoECAAQEzoKCAAQHhAPEA0QEzoICAAQHhANEBM6CggAEB4QDRAKEBNKBAhBGABKBAhGGABQoAJY1Q1gvxBoAXABeACAAV-IAZsFkgEBOJgBAKABAcgBCsABAQ&sclient=gws-wiz)
-- ⚡ Забавный факт: я думаю, что, к сожалению, страдаю от синдрома самозванца 😅
-
-[⬆️](#languages-i-speak)
-
----
-<!--
-**Dima0687/dima0687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/Dima0687) |
+[LinkedIn](https://www.linkedin.com/in/dietmar-eisner/) |
+[E-Mail](mailto:dietmar@eisner-developer.com)    
